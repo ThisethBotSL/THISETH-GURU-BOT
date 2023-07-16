@@ -7,9 +7,10 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497078', 'me', true],
-  ['6281255369012', 'Ash', true], 
-  [''] 
+  ['94715260518', 'Thiseth', true],
+  ['94712905425', 'BoThiseth', true], 
+  ['94716218363', 'Thiseth', true],
+  ['']
 ] //Number of owners
 
 global.mods = ['917605902011','32460248586'] 
@@ -47,16 +48,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝕊𝕃𝔹𝕆𝕋'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.packname = '𝕊𝕃┃ᴮᴼᵀ' 
+global.author = '@Thiseth' 
+global.igfg = '▢ Follow on Instagram _Thiseth_Weerasinghe_' 
+global.dygp = 'https://chat.whatsapp.com/DahHtf9WLZJIbSHTPC2oZk'
+global.fgsc = 'https://github.com/' 
+global.fgyt = 'https://youtube.com/'
+global.fgpyp = 'https://youtube.com/'
+global.fglog = 'https://www.freepik.com/free-photos-vectors/bot' 
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
